@@ -100,10 +100,7 @@ The Courier Management System (CMS) automates and streamlines logistics and deli
 
 ## Technical Specifications
 
-* **Tech Stack:** Developed using PHP and MySQL with a modular architecture.
-* **Performance:** 24/7 availability with <3 second response times for tracking and GPS mapping.
-* **Security:** Implements BCrypt password hashing and Role-Based Access Control (RBAC).
-* **Deployment:** Cross-platform compatible (Windows, Linux, macOS) and deployable on standard server environments (WAMP, XAMPP, Apache2).
+Built using PHP & MySQL with authentication mechanisms, role-based system operations, and a structured modular design.
 
 ## Project Lifecycle
 
